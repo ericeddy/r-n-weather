@@ -1,4 +1,3 @@
-1. api
-2. localstorage
-3. button that pulls
-4. display local result
+## define WEATHER_KEY in your .env file
+
+## Was built testing for Web, still need to test android & iOS builds
